@@ -9,17 +9,12 @@ Copyright (c) 2011-2014 Cryptocoin24 Developers
 What is Cryptocoin24?
 ----------------
 
-Cryptocoin24 is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
- - 2.5 minute block targets
- - subsidy halves in 840k blocks (~4 years)
- - ~84 million total coins
-
-The rest is the same as Bitcoin.
- - 50 coins per block
- - 2016 blocks to retarget difficulty
+CRC24 is short for Cryptocoin 24. CRC24 is a cryptocurrency, much like Bitcoin. Here is the original whitepaper.
+The concept behind Cryptocoin24 is very innovative, as there will be no tokens or blocking periods for Cryptocoin24 owners. A Coin which not only stands out from others, but is revolutionary.
+Cryptocoin24 is designed not only for insiders of cryptographic technologies, but is intended to be easily usable and usable by all people worldwide. Its potential is enormous because it is to be recognized as a separate means of payment and this is completely independent of banks.
 
 For more information, as well as an immediately useable, binary version of
-the Cryptocoin24 client sofware, see http://www.cryptocoin24.org.
+the Cryptocoin24 client sofware, see https://www.cryptocoin24.org.
 
 License
 -------
