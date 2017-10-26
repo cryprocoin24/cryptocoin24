@@ -1,0 +1,9 @@
+Building Cryptocoin24
+
+See doc/readme-qt.rst for instructions on building Cryptocoin24-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Cryptocoin24.
+
+See doc/build-*.txt for instructions on building cryptocoin24d,
+the intended-for-services, no-graphical-interface, reference
+implementation of Cryptocoin24.

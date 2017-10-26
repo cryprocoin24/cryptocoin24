@@ -1,0 +1,34 @@
+src/*.exe
+src/cryptocoin24
+src/cryptocoin24d
+src/test_cryptocoin24
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.cryptocoin24
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+cryptocoin24-qt
+Cryptocoin24-Qt.app
+
+# Unit-tests
+Makefile.test
+cryptocoin24-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile
